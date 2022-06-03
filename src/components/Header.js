@@ -7,7 +7,6 @@ class Header extends Component {
       this.state = {
         task: {
           text: '',  
-          id: uniqid()
         },
         tasks: [],
       };
@@ -18,8 +17,7 @@ class Header extends Component {
   
       return (
         <div>
-  
-  
+            GGWP
         </div>
         // <div>
         //   <form onSubmit={this.onSubmitTask}>
